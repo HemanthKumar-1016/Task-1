@@ -1,0 +1,75 @@
+INFO : root : 2022-07-04 08:38:36,558 : The string Constructor is called --------
+INFO : root : 2022-07-04 08:38:36,569 : enter into the three jummping
+INFO : root : 2022-07-04 08:38:36,569 : the jumpping of 3 steps -->: tssyityopgmncsa alrNph rgni ni
+INFO : root : 2022-07-04 08:38:36,569 : This function tell you the reverse the string :
+INFO : root : 2022-07-04 08:38:36,569 : The reversed value of the given string is noitcnuf sti dna gnirts nohtyp GNINrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht
+INFO : root : 2022-07-04 08:38:36,569 : This will change all the string into upper case and split the string
+INFO : root : 2022-07-04 08:38:36,569 : This the value after uppering the string and spliting it  ['THIS', 'IS', 'MY', 'FIRST', 'PYTHON', 'PROGRAMMING', 'CLASS', 'AND', 'I', 'AM', 'LEARNING', 'PYTHON', 'STRING', 'AND', 'ITS', 'FUNCTION']
+INFO : root : 2022-07-04 08:38:36,569 : This function tells you the lowercase letter of all strings
+INFO : root : 2022-07-04 08:38:36,569 : Total string into Lowercase letters
+INFO : root : 2022-07-04 08:38:36,569 : After converting the string into ------> this is my first python programming class and i am learning python string and its function
+INFO : root : 2022-07-04 08:38:36,569 : This function tells you the captilize the strings
+INFO : root : 2022-07-04 08:38:36,569 : Total string into captilize
+INFO : root : 2022-07-04 08:38:36,570 : After converting the string into ------> This is my first python programming class and i am learning python string and its function
+INFO : root : 2022-07-04 08:38:36,570 : This function tells you the difference between isalpha and isalnum the strings
+INFO : root : 2022-07-04 08:38:36,570 : check the string isalpha -
+INFO : root : 2022-07-04 08:38:36,570 : This is having the numerical values like ! and spaces as well
+INFO : root : 2022-07-04 08:38:36,570 : This function tells you the expand tabs like slash t white spaces the strings
+INFO : root : 2022-07-04 08:38:36,570 : check the string is having the expand tab or not if yes it will print the output
+INFO : root : 2022-07-04 08:38:36,570 : This tells you the string to expand tabs this is My First Python programming class and i am learNING python string and its function
+INFO : root : 2022-07-04 08:38:36,570 : This function tells you the leave the spaces(one tab space) into left side strings
+INFO : root : 2022-07-04 08:38:36,570 : check the string is having the lstrip
+INFO : root : 2022-07-04 08:38:36,570 : This leaves you the space in the left side of the string value :this is My First Python programming class and i am learNING python string and its function
+INFO : root : 2022-07-04 08:38:36,570 : This function tells you the leave the spaces(one tab space) into right side strings
+INFO : root : 2022-07-04 08:38:36,570 : check the string is having the rstrip
+INFO : root : 2022-07-04 08:38:36,570 : This leaves you the space in the right side of the string value :this is My First Python programming class and i am learNING python string and its function
+INFO : root : 2022-07-04 08:38:36,570 : This function tells you the non spaces between the words in the string
+INFO : root : 2022-07-04 08:38:36,570 : check the string is having the strip
+INFO : root : 2022-07-04 08:38:36,571 : This leaves you the space string value :this is My First Python programming class and i am learNING python string and its function
+INFO : root : 2022-07-04 08:38:36,571 : This function tells you the replace the value
+INFO : root : 2022-07-04 08:38:36,571 : This changes the strings to the name
+INFO : root : 2022-07-04 08:38:36,571 : This will tells you the replace value in the string  : this is My First Pandas programming class and i am learNING sklearn string and its function
+INFO : root : 2022-07-04 08:38:36,571 : This function tells you the center function
+INFO : root : 2022-07-04 08:38:36,572 :  
+INFO : root : 2022-07-04 08:38:36,572 : : this is My First Python programming class and i am learNING python string and its function
+INFO : root : 2022-07-04 08:38:36,572 : ------------------------------------------------------------------------------------------------------------------------------------------------------
+INFO : root : 2022-07-04 08:38:36,573 : [1, 2, 3, 4]
+INFO : root : 2022-07-04 08:38:36,573 : ['ineuron', 'data science']
+INFO : root : 2022-07-04 08:38:36,573 : {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO : root : 2022-07-04 08:38:36,573 : (2, 3, 4, 5, 6)
+INFO : root : 2022-07-04 08:38:36,573 : (3, 4, 5, 6, 7)
+INFO : root : 2022-07-04 08:38:36,574 : [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 6, 3, 8, 7]
+INFO : root : 2022-07-04 08:38:36,574 : [1, 3, 3, 5, 3, 5, 7, 45, 5, 23, 3, 7]
+INFO : root : 2022-07-04 08:38:36,574 : 156
+INFO : root : 2022-07-04 08:38:36,574 : ['ineuron', 'ineuron']
+INFO : root : 2022-07-04 08:38:36,574 : [1, 2, 3, 4, 2, 3, 4, 5, 6, 3, 4, 5, 6, 7, 45, 4, 5, 23, 'k1', 'sudh', 'k2', 'ineuron', 'k3', 'kumar', 3, 6, 7, 8, 'ineuron', 'data science']
+INFO : root : 2022-07-04 08:38:36,574 : kumar -- > 1
+INFO : root : 2022-07-04 08:38:36,574 : 1 -- > 1
+INFO : root : 2022-07-04 08:38:36,575 : 2 -- > 2
+INFO : root : 2022-07-04 08:38:36,575 : 3 -- > 4
+INFO : root : 2022-07-04 08:38:36,575 : 4 -- > 4
+INFO : root : 2022-07-04 08:38:36,575 : 5 -- > 3
+INFO : root : 2022-07-04 08:38:36,575 : 6 -- > 3
+INFO : root : 2022-07-04 08:38:36,575 : 7 -- > 2
+INFO : root : 2022-07-04 08:38:36,575 : k1 -- > 1
+INFO : root : 2022-07-04 08:38:36,575 : ineuron -- > 2
+INFO : root : 2022-07-04 08:38:36,575 : k2 -- > 1
+INFO : root : 2022-07-04 08:38:36,576 : 8 -- > 1
+INFO : root : 2022-07-04 08:38:36,576 : data science -- > 1
+INFO : root : 2022-07-04 08:38:36,576 : 45 -- > 1
+INFO : root : 2022-07-04 08:38:36,576 : sudh -- > 1
+INFO : root : 2022-07-04 08:38:36,576 : 23 -- > 1
+INFO : root : 2022-07-04 08:38:36,576 : k3 -- > 1
+INFO : root : 2022-07-04 08:38:36,576 : 5
+INFO : root : 2022-07-04 08:38:36,576 : ['k1', 'sudh', 'k2', 'ineuron', 'k3', 'kumar', 'ineuron', 'data science']
+INFO : root : 2022-07-04 08:38:36,576 : ['k1', 'k2', 'k3']
+INFO : root : 2022-07-04 08:38:36,577 : ------------------------------------------------------------------------------------------------------------------------------------------------------
+INFO : root : 2022-07-04 08:38:36,577 : [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+INFO : root : 2022-07-04 08:38:36,577 : [234, 234]
+INFO : root : 2022-07-04 08:38:36,577 : [456]
+INFO : root : 2022-07-04 08:38:36,577 : [[23, 456, 67, 8, 78, 78], [345, 56, 87, 8, 98, 9]]
+INFO : root : 2022-07-04 08:38:36,577 : ['sudh']
+INFO : root : 2022-07-04 08:38:36,577 : ['key1', 234]
+INFO : root : 2022-07-04 08:38:36,577 : ['sudh', [23, 45, 656]]
+INFO : root : 2022-07-04 08:38:36,578 : ------------------------------------------------------------------------------------------------------------------------------------------------------
+INFO : root : 2022-07-04 08:38:36,578 : [(234, 6657, 6)]
